@@ -1,2 +1,4 @@
 # xatkit-processors
-Processors for Xatkit
+Processors for Xatkit.
+
+Check the [available processors and how to use them](https://github.com/xatkit-bot-platform/xatkit/wiki/Processors)
